@@ -1,5 +1,5 @@
-# Hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio.
 
 Autor: Abigail M.
 Fecha: 12 de febrero.
